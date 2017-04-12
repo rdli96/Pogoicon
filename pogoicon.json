@@ -1,10 +1,755 @@
 {
-    "id1": "http://www.serebii.net/pokemongo/pokemon/001.png"
-    },
-"id147”: {
-    "url": "http://www.serebii.net/pokemongo/pokemon/147.png"
-  },
-  "id148”: {
-    "url": "http://www.serebii.net/pokemongo/pokemon/148.png"
-  }
+ "id1": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/1.png"
+ }, 
+ "id10": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/10.png"
+ }, 
+ "id100": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/100.png"
+ }, 
+ "id101": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/101.png"
+ }, 
+ "id102": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/102.png"
+ }, 
+ "id103": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/103.png"
+ }, 
+ "id104": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/104.png"
+ }, 
+ "id105": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/105.png"
+ }, 
+ "id106": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/106.png"
+ }, 
+ "id107": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/107.png"
+ }, 
+ "id108": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/108.png"
+ }, 
+ "id109": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/109.png"
+ }, 
+ "id11": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/11.png"
+ }, 
+ "id110": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/110.png"
+ }, 
+ "id111": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/111.png"
+ }, 
+ "id112": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/112.png"
+ }, 
+ "id113": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/113.png"
+ }, 
+ "id114": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/114.png"
+ }, 
+ "id115": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/115.png"
+ }, 
+ "id116": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/116.png"
+ }, 
+ "id117": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/117.png"
+ }, 
+ "id118": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/118.png"
+ }, 
+ "id119": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/119.png"
+ }, 
+ "id12": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/12.png"
+ }, 
+ "id120": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/120.png"
+ }, 
+ "id121": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/121.png"
+ }, 
+ "id122": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/122.png"
+ }, 
+ "id123": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/123.png"
+ }, 
+ "id124": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/124.png"
+ }, 
+ "id125": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/125.png"
+ }, 
+ "id126": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/126.png"
+ }, 
+ "id127": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/127.png"
+ }, 
+ "id128": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/128.png"
+ }, 
+ "id129": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/129.png"
+ }, 
+ "id13": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/13.png"
+ }, 
+ "id130": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/130.png"
+ }, 
+ "id131": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/131.png"
+ }, 
+ "id132": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/132.png"
+ }, 
+ "id133": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/133.png"
+ }, 
+ "id134": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/134.png"
+ }, 
+ "id135": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/135.png"
+ }, 
+ "id136": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/136.png"
+ }, 
+ "id137": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/137.png"
+ }, 
+ "id138": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/138.png"
+ }, 
+ "id139": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/139.png"
+ }, 
+ "id14": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/14.png"
+ }, 
+ "id140": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/140.png"
+ }, 
+ "id141": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/141.png"
+ }, 
+ "id142": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/142.png"
+ }, 
+ "id143": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/143.png"
+ }, 
+ "id144": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/144.png"
+ }, 
+ "id145": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/145.png"
+ }, 
+ "id146": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/146.png"
+ }, 
+ "id147": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/147.png"
+ }, 
+ "id148": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/148.png"
+ }, 
+ "id149": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/149.png"
+ }, 
+ "id15": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/15.png"
+ }, 
+ "id150": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/150.png"
+ }, 
+ "id151": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/151.png"
+ }, 
+ "id152": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/152.png"
+ }, 
+ "id153": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/153.png"
+ }, 
+ "id154": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/154.png"
+ }, 
+ "id155": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/155.png"
+ }, 
+ "id156": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/156.png"
+ }, 
+ "id157": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/157.png"
+ }, 
+ "id158": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/158.png"
+ }, 
+ "id159": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/159.png"
+ }, 
+ "id16": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/16.png"
+ }, 
+ "id160": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/160.png"
+ }, 
+ "id161": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/161.png"
+ }, 
+ "id162": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/162.png"
+ }, 
+ "id163": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/163.png"
+ }, 
+ "id164": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/164.png"
+ }, 
+ "id165": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/165.png"
+ }, 
+ "id166": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/166.png"
+ }, 
+ "id167": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/167.png"
+ }, 
+ "id168": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/168.png"
+ }, 
+ "id169": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/169.png"
+ }, 
+ "id17": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/17.png"
+ }, 
+ "id170": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/170.png"
+ }, 
+ "id171": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/171.png"
+ }, 
+ "id172": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/172.png"
+ }, 
+ "id173": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/173.png"
+ }, 
+ "id174": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/174.png"
+ }, 
+ "id175": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/175.png"
+ }, 
+ "id176": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/176.png"
+ }, 
+ "id177": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/177.png"
+ }, 
+ "id178": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/178.png"
+ }, 
+ "id179": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/179.png"
+ }, 
+ "id18": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/18.png"
+ }, 
+ "id180": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/180.png"
+ }, 
+ "id181": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/181.png"
+ }, 
+ "id182": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/182.png"
+ }, 
+ "id183": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/183.png"
+ }, 
+ "id184": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/184.png"
+ }, 
+ "id185": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/185.png"
+ }, 
+ "id186": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/186.png"
+ }, 
+ "id187": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/187.png"
+ }, 
+ "id188": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/188.png"
+ }, 
+ "id189": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/189.png"
+ }, 
+ "id19": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/19.png"
+ }, 
+ "id190": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/190.png"
+ }, 
+ "id191": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/191.png"
+ }, 
+ "id192": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/192.png"
+ }, 
+ "id193": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/193.png"
+ }, 
+ "id194": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/194.png"
+ }, 
+ "id195": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/195.png"
+ }, 
+ "id196": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/196.png"
+ }, 
+ "id197": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/197.png"
+ }, 
+ "id198": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/198.png"
+ }, 
+ "id199": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/199.png"
+ }, 
+ "id2": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/2.png"
+ }, 
+ "id20": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/20.png"
+ }, 
+ "id200": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/200.png"
+ }, 
+ "id201": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/201.png"
+ }, 
+ "id202": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/202.png"
+ }, 
+ "id203": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/203.png"
+ }, 
+ "id204": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/204.png"
+ }, 
+ "id205": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/205.png"
+ }, 
+ "id206": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/206.png"
+ }, 
+ "id207": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/207.png"
+ }, 
+ "id208": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/208.png"
+ }, 
+ "id209": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/209.png"
+ }, 
+ "id21": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/21.png"
+ }, 
+ "id210": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/210.png"
+ }, 
+ "id211": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/211.png"
+ }, 
+ "id212": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/212.png"
+ }, 
+ "id213": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/213.png"
+ }, 
+ "id214": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/214.png"
+ }, 
+ "id215": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/215.png"
+ }, 
+ "id216": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/216.png"
+ }, 
+ "id217": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/217.png"
+ }, 
+ "id218": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/218.png"
+ }, 
+ "id219": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/219.png"
+ }, 
+ "id22": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/22.png"
+ }, 
+ "id220": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/220.png"
+ }, 
+ "id221": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/221.png"
+ }, 
+ "id222": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/222.png"
+ }, 
+ "id223": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/223.png"
+ }, 
+ "id224": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/224.png"
+ }, 
+ "id225": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/225.png"
+ }, 
+ "id226": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/226.png"
+ }, 
+ "id227": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/227.png"
+ }, 
+ "id228": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/228.png"
+ }, 
+ "id229": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/229.png"
+ }, 
+ "id23": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/23.png"
+ }, 
+ "id230": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/230.png"
+ }, 
+ "id231": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/231.png"
+ }, 
+ "id232": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/232.png"
+ }, 
+ "id233": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/233.png"
+ }, 
+ "id234": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/234.png"
+ }, 
+ "id235": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/235.png"
+ }, 
+ "id236": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/236.png"
+ }, 
+ "id237": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/237.png"
+ }, 
+ "id238": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/238.png"
+ }, 
+ "id239": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/239.png"
+ }, 
+ "id24": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/24.png"
+ }, 
+ "id240": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/240.png"
+ }, 
+ "id241": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/241.png"
+ }, 
+ "id242": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/242.png"
+ }, 
+ "id243": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/243.png"
+ }, 
+ "id244": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/244.png"
+ }, 
+ "id245": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/245.png"
+ }, 
+ "id246": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/246.png"
+ }, 
+ "id247": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/247.png"
+ }, 
+ "id248": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/248.png"
+ }, 
+ "id249": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/249.png"
+ }, 
+ "id25": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/25.png"
+ }, 
+ "id250": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/250.png"
+ }, 
+ "id251": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/251.png"
+ }, 
+ "id26": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/26.png"
+ }, 
+ "id27": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/27.png"
+ }, 
+ "id28": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/28.png"
+ }, 
+ "id29": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/29.png"
+ }, 
+ "id3": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/3.png"
+ }, 
+ "id30": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/30.png"
+ }, 
+ "id31": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/31.png"
+ }, 
+ "id32": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/32.png"
+ }, 
+ "id33": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/33.png"
+ }, 
+ "id34": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/34.png"
+ }, 
+ "id35": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/35.png"
+ }, 
+ "id36": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/36.png"
+ }, 
+ "id37": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/37.png"
+ }, 
+ "id38": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/38.png"
+ }, 
+ "id39": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/39.png"
+ }, 
+ "id4": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/4.png"
+ }, 
+ "id40": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/40.png"
+ }, 
+ "id41": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/41.png"
+ }, 
+ "id42": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/42.png"
+ }, 
+ "id43": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/43.png"
+ }, 
+ "id44": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/44.png"
+ }, 
+ "id45": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/45.png"
+ }, 
+ "id46": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/46.png"
+ }, 
+ "id47": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/47.png"
+ }, 
+ "id48": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/48.png"
+ }, 
+ "id49": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/49.png"
+ }, 
+ "id5": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/5.png"
+ }, 
+ "id50": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/50.png"
+ }, 
+ "id51": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/51.png"
+ }, 
+ "id52": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/52.png"
+ }, 
+ "id53": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/53.png"
+ }, 
+ "id54": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/54.png"
+ }, 
+ "id55": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/55.png"
+ }, 
+ "id56": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/56.png"
+ }, 
+ "id57": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/57.png"
+ }, 
+ "id58": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/58.png"
+ }, 
+ "id59": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/59.png"
+ }, 
+ "id6": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/6.png"
+ }, 
+ "id60": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/60.png"
+ }, 
+ "id61": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/61.png"
+ }, 
+ "id62": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/62.png"
+ }, 
+ "id63": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/63.png"
+ }, 
+ "id64": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/64.png"
+ }, 
+ "id65": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/65.png"
+ }, 
+ "id66": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/66.png"
+ }, 
+ "id67": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/67.png"
+ }, 
+ "id68": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/68.png"
+ }, 
+ "id69": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/69.png"
+ }, 
+ "id7": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/7.png"
+ }, 
+ "id70": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/70.png"
+ }, 
+ "id71": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/71.png"
+ }, 
+ "id72": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/72.png"
+ }, 
+ "id73": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/73.png"
+ }, 
+ "id74": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/74.png"
+ }, 
+ "id75": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/75.png"
+ }, 
+ "id76": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/76.png"
+ }, 
+ "id77": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/77.png"
+ }, 
+ "id78": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/78.png"
+ }, 
+ "id79": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/79.png"
+ }, 
+ "id8": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/8.png"
+ }, 
+ "id80": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/80.png"
+ }, 
+ "id81": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/81.png"
+ }, 
+ "id82": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/82.png"
+ }, 
+ "id83": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/83.png"
+ }, 
+ "id84": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/84.png"
+ }, 
+ "id85": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/85.png"
+ }, 
+ "id86": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/86.png"
+ }, 
+ "id87": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/87.png"
+ }, 
+ "id88": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/88.png"
+ }, 
+ "id89": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/89.png"
+ }, 
+ "id9": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/9.png"
+ }, 
+ "id90": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/90.png"
+ }, 
+ "id91": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/91.png"
+ }, 
+ "id92": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/92.png"
+ }, 
+ "id93": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/93.png"
+ }, 
+ "id94": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/94.png"
+ }, 
+ "id95": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/95.png"
+ }, 
+ "id96": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/96.png"
+ }, 
+ "id97": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/97.png"
+ }, 
+ "id98": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/98.png"
+ }, 
+ "id99": {
+  "url": "https://assets-8.bostonpogomap.com/images/poke/99.png"
+ }
 }
